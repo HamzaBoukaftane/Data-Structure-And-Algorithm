@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InterviewTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-21T00:06:59" hostname="MacBook-Air-de-Hamza.local" time="0.015">
+  <properties/>
+  <testcase name="simple()" classname="InterviewTest" time="0.011"/>
+  <testcase name="case0()" classname="InterviewTest" time="0.0"/>
+  <testcase name="case1()" classname="InterviewTest" time="0.001"/>
+  <testcase name="case2()" classname="InterviewTest" time="0.0"/>
+  <testcase name="case3()" classname="InterviewTest" time="0.0"/>
+  <testcase name="case4()" classname="InterviewTest" time="0.0"/>
+  <testcase name="case5()" classname="InterviewTest" time="0.0"/>
+  <testcase name="empty()" classname="InterviewTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

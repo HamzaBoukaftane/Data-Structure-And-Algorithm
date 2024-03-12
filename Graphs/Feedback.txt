@@ -1,0 +1,10 @@
+|---------------------------------|---------------------------|-------|
+| Alphabet                        | Réussite des tests        |  4/4  |
+| Qualité du code                 |                           |  1/1  |
+| Solveur de labyrinthe           | Réussite des tests        |  4/4  |
+| Qualité du code                 |                           |  1/1  |
+| ke plus petit élément           | Réussite des tests        |  4/4  |
+|                                 | Complexité et explication |  6/6  |
+|---------------------------------|---------------------------|-------|
+| Total                           |                           | 20/20 |
+|---------------------------------|---------------------------|-------|

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InterviewTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2023-03-17T19:20:14" hostname="MacBook-Air-de-Hamza.local" time="0.015">
+  <properties/>
+  <testcase name="iterativeLinearAnswerInBeginning()" classname="InterviewTest" time="0.007"/>
+  <testcase name="RecursiveAnswerInMiddle()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeAnswerInEnd()" classname="InterviewTest" time="0.001"/>
+  <testcase name="iterativeAnswerInMiddle()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeLinearOnly1Element()" classname="InterviewTest" time="0.001"/>
+  <testcase name="iterativeLinearAnswerInMiddle()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeNoElements()" classname="InterviewTest" time="0.001"/>
+  <testcase name="RecursiveAnswerInEnd()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeOnly1Element()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeLinearNoElements()" classname="InterviewTest" time="0.001"/>
+  <testcase name="iterativeAnswerInBeginning()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeLargeArray()" classname="InterviewTest" time="0.001"/>
+  <testcase name="iterativeLinearLargeArray()" classname="InterviewTest" time="0.0"/>
+  <testcase name="RecursiveLargeArray()" classname="InterviewTest" time="0.0"/>
+  <testcase name="RecursiveInBeginning()" classname="InterviewTest" time="0.001"/>
+  <testcase name="RecursiveLinearNoElements()" classname="InterviewTest" time="0.0"/>
+  <testcase name="iterativeLinearAnswerInEnd()" classname="InterviewTest" time="0.0"/>
+  <testcase name="RecursiveOnly1Element()" classname="InterviewTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
